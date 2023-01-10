@@ -1,37 +1,17 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/780
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Peru",Gol Peru
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/686
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru",PERU: América TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/304
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Antares TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/451
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: BHTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/399
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: La Luz
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/338
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",PERU: Latina
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/317
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Plus TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/337
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: RBC
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/220
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru",PERU: RPP
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/336
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: TV Peru
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/306
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Willax TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/334
