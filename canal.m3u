@@ -21,3 +21,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias (480p) [Not 24/7]
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVw1Lme.png",ATV [480] (2)
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8 | user-agent=iPhone
